@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piero/Documents/agregacion-y-herencia-Piero16301/Biblioteca/Biblioteca.cpp
+Biblioteca.h
+/home/piero/Documents/agregacion-y-herencia-Piero16301/Biblioteca/Biblioteca.h
+
+/home/piero/Documents/agregacion-y-herencia-Piero16301/Biblioteca/Biblioteca.h
+stdio.h
+-
+vector
+-
+Volumen.h
+/home/piero/Documents/agregacion-y-herencia-Piero16301/Biblioteca/Volumen.h
+
+/home/piero/Documents/agregacion-y-herencia-Piero16301/Biblioteca/Volumen.cpp
+Volumen.h
+/home/piero/Documents/agregacion-y-herencia-Piero16301/Biblioteca/Volumen.h
+
+/home/piero/Documents/agregacion-y-herencia-Piero16301/Biblioteca/Volumen.h
+iostream
+-
+Biblioteca.h
+/home/piero/Documents/agregacion-y-herencia-Piero16301/Biblioteca/Biblioteca.h
+
+/home/piero/Documents/agregacion-y-herencia-Piero16301/Biblioteca/main.cpp
+iostream
+-
+Biblioteca.h
+/home/piero/Documents/agregacion-y-herencia-Piero16301/Biblioteca/Biblioteca.h
+
